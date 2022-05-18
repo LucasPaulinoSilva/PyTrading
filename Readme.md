@@ -1,4 +1,12 @@
-# **MANUAL DE UTILIZAÇÃO** <h1>
+# **ROBÔ DE SINAIS BINANCE - TELEGRAM** <h1>
+
+O robô de sinal **PyTrader** realiza o monitoramento dos pares de criptomoedas e envia mensagens de alertas via **Telegram**. Com diversos indicadores e tempos gráficos customizavéis, é uma excelente opção para quem quer ficar por dentro das oportunidades e regiões de preços importantes.
+
+<div align="center">
+<img src = "img/botpython.PNG" alt="Image" height="150" width="300">
+</div>
+
+## **MANUAL DE UTILIZAÇÃO** <h2>
 
 </br>
 
@@ -6,7 +14,7 @@ No arquivo **"secrets.py"**
 </br> 
 
 <div align="center">
-<img src = "img/secrets.png">
+<img src = "img/secrets.PNG">
 </div>
 
 </br> 
@@ -14,7 +22,7 @@ No arquivo **"secrets.py"**
 deverá ser inserida a **API_KEY** da sua conta Binance juntamente de sua senha **API_ SECRET**. Ambos podem ser obtidos nas configurações da sua conta Binance, adentrando na opção **API Management**:
 
 <div align="center">
-<img src = "img/apimanagement.png">
+<img src = "img/apimanagement.PNG">
 </div>
 
 </br> 
@@ -23,7 +31,7 @@ Ainda no arquivo **"secrets.py"**, para inserir o **TOKEN** é necessário criar
 
 
 <div align="center">
-<img src = "img/botfather.png" alt="Image" height="350" width="300">
+<img src = "img/botfather.PNG" alt="Image" height="350" width="300">
 </div>
 
 </br> 
@@ -36,7 +44,7 @@ Pode-se alterar a criptomoeda a ser analisada substituindo-a em **TRADE_SYMBOL**
 </br> 
 
 <div align="center">
-<img src = "img/criptotime.png">
+<img src = "img/criptotime.PNG">
 </div>
 
 </br> 
@@ -45,7 +53,7 @@ Os indicadores podem ser customizados e inseridos a seu critério acessando a bi
 </br> 
 
 <div align="center">
-<img src = "img/bollingerbands.png">
+<img src = "img/bollingerbands.PNG">
 </div>
 
 </br> 
@@ -54,7 +62,7 @@ Para customizar ou adicionar uma mensagem que será enviada no Telegram, é nece
 </br> 
 
 <div align="center">
-<img src = "img/msgtelegram.png">
+<img src = "img/msgtelegram.PNG">
 </div>
 
 </br> 
