@@ -3,7 +3,7 @@
 O robô de sinal **PyTrader** realiza o monitoramento dos pares de criptomoedas e envia mensagens de alertas via **Telegram**. Com diversos indicadores e tempos gráficos customizavéis, é uma excelente opção para quem quer ficar por dentro das oportunidades e regiões de preços importantes.
 
 <div align="center">
-<img src = "img/botpython.PNG" alt="Image" height="150" width="300">
+<img src = "img/botpython.png" alt="Image" height="150" width="300">
 </div>
 
 ## **MANUAL DE UTILIZAÇÃO** <h2>
