@@ -22,7 +22,7 @@ No arquivo **"secrets.py"**
 deverá ser inserida a **API_KEY** da sua conta Binance juntamente de sua senha **API_ SECRET**. Ambos podem ser obtidos nas configurações da sua conta Binance, adentrando na opção **API Management**:
 
 <div align="center">
-<img src = "img/apimanagement.PNG">
+<img src = "img/apimanagement.png">
 </div>
 
 </br> 
@@ -53,7 +53,7 @@ Os indicadores podem ser customizados e inseridos a seu critério acessando a bi
 </br> 
 
 <div align="center">
-<img src = "img/bollingerbands.PNG">
+<img src = "img/bollingerbands.png">
 </div>
 
 </br> 
