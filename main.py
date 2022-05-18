@@ -51,7 +51,6 @@ def on_message(ws, message):
         data_e_hora_atuais = datetime.now()
         data_e_hora_em_texto = data_e_hora_atuais.strftime('%d/%m/%Y %H:%M')   
         
-        
         # Verifica se o estocástico lento está sobrevendido 
         if (last_RSI > 80 and last_SRSIk > 80 and last_SRSId > 80):
             telegramBot.send_msg("⚠️ESTOCÁTISCO SOBREVENDIDO⚠️ \n⬆️OPORTUNIDADE DE COMPRA⬆️" +
