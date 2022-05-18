@@ -31,7 +31,7 @@ Ainda no arquivo **"secrets.py"**, para inserir o **TOKEN** é necessário criar
 
 
 <div align="center">
-<img src = "img/botfather.PNG" alt="Image" height="350" width="300">
+<img src = "img/botfather.png" alt="Image" height="350" width="300">
 </div>
 
 </br> 
@@ -53,7 +53,7 @@ Os indicadores podem ser customizados e inseridos a seu critério acessando a bi
 </br> 
 
 <div align="center">
-<img src = "img/bollingerbands.png">
+<img src = "img/bollingerbands.PNG">
 </div>
 
 </br> 
