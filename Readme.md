@@ -40,7 +40,7 @@ Ainda no arquivo **"secrets.py"**, para inserir o **TOKEN** é necessário criar
 
 </br> 
 
-Para capturar o **CHAT_ID**, é necessário entrar no site [https://api.telegram.org/bot+TOKEN/getUpdates] e substituir o TOKEN. Em seguida, basta enviar uma mensagem através do telegram e atualizar o site. o número do chat aparece na string: {"message_id":xxx,"from":{"id":**Número ID**.
+Para capturar o **CHAT_ID**, é necessário entrar no site [https://api.telegram.org/botTOKEN/getUpdates] e substituir o **TOKEN**. Em seguida, basta enviar uma mensagem através do telegram e atualizar o site. o número do chat aparece na string: {"message_id":xxx,"from":{"id":**Número ID**.
 
 </br> 
 
