@@ -9,6 +9,10 @@ O robô de sinais **PyTrader** realiza o monitoramento dos pares de criptomoedas
 ## **MANUAL DE UTILIZAÇÃO** <h2>
 
 </br>
+  
+Antes de começar a configurar e a utilizar, é necessário instalar a biblioteca da Binance. Digite no terminal: **pip install python-binance**
+##
+</br>
 
 No arquivo **"secrets.py"**
 </br> 
