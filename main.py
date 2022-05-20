@@ -1,4 +1,4 @@
-from binance_mod.client import Client
+from binance.client import Client
 import secrets
 import websocket
 import json
